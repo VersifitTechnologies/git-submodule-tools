@@ -10,4 +10,3 @@
 \description{
   Show about gitR window.
 }
-

@@ -12,4 +12,3 @@
 \description{
   Displays dialog to choose how to call git reset.
 }
-

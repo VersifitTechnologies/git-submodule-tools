@@ -13,4 +13,3 @@
 \description{
   Convert status code (XZ) to a human readable string.
 }
-

@@ -21,4 +21,3 @@
   Executes a git command using \code{system2()}, e. g.,
   calls \code{git <args> 2>&1} in the supplied directory.
 }
-

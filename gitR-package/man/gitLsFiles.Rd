@@ -34,4 +34,3 @@
   Calls git ls-files. Converts the output into a nice
   data.frame if required.
 }
-

@@ -12,4 +12,3 @@
 \description{
   Get informative submodule status string from git status
 }
-

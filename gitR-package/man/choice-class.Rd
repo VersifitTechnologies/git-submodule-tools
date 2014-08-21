@@ -5,4 +5,3 @@
   Simple reference class to retrieve input in a dialog box
   more easily.
 }
-

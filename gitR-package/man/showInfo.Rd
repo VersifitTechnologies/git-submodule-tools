@@ -10,4 +10,3 @@
 \description{
   Shows basic info about a repository in a separate window.
 }
-

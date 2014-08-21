@@ -11,4 +11,3 @@
   Adds the given file to .gitignore in the repository's
   toplevel directory. Give an absolute path.
 }
-

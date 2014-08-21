@@ -15,4 +15,3 @@
 \description{
   Remove a submodule.
 }
-

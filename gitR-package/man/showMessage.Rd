@@ -15,4 +15,3 @@
   Shows a dbraialog while blocking the input to the parent
   window.
 }
-

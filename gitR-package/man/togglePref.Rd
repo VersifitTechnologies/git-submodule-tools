@@ -11,4 +11,3 @@
   Sets the preferences in gitR object and updates the menu
   label accordingly.
 }
-

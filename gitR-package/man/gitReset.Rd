@@ -19,4 +19,3 @@
   Reset current branch HEAD to \code{commit} and possibly
   updates the index and work-tree depending on \code{mode}.
 }
-

@@ -16,4 +16,3 @@
   Get current branch name, some descriptive string or
   nothing if head is detached and describe is FALSE
 }
-

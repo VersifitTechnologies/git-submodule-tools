@@ -17,4 +17,3 @@
 \description{
   Move a submodule.
 }
-

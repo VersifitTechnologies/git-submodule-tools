@@ -101,4 +101,3 @@ $line
     ## gzip it
     gzip "$man"
 done
-

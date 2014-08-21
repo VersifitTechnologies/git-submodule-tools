@@ -13,4 +13,3 @@
 \description{
   Convert file mode to a string.
 }
-

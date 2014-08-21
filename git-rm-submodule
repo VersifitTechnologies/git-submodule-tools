@@ -78,4 +78,3 @@ if [[ ! "$nocommit" ]]; then
     git commit -m "removed submodule \"$dir\" (url: $url)"
     ## TODO: commit in super repositories of this one also??
 fi
-

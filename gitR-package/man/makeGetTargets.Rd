@@ -13,4 +13,3 @@
 \description{
   Reads the makefile and returns a vector of targets.
 }
-

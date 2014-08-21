@@ -173,4 +173,3 @@ Copyright/License
 -----------------
 
 License: GPL v2 Copyright (c) 2012 Manuel Koller
-

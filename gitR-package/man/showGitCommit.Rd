@@ -12,4 +12,3 @@
 \description{
   Enter a commit message and commit options.
 }
-

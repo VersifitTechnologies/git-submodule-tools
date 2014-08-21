@@ -10,4 +10,3 @@
 \description{
   Shows a man page in a separate window.
 }
-

@@ -11,4 +11,3 @@
   Show Rdiff output for the current repository in a
   separate window.
 }
-

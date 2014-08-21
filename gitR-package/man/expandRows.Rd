@@ -16,4 +16,3 @@
 \description{
   Restore the saved expansion state.
 }
-

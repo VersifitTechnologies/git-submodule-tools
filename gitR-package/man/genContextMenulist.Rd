@@ -11,4 +11,3 @@
   Depending on type of file, generate a different context
   menu.
 }
-

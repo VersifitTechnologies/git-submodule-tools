@@ -19,4 +19,3 @@
   Displays the dialog for adding submodules and returns the
   url and the path of the submodules.
 }
-

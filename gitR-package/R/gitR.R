@@ -344,4 +344,3 @@ createGUI <- function(path=getwd()) {
   assign(".gitR.windows", .gitR.windows + 1, envir=.GlobalEnv)
   obj
 }
-  

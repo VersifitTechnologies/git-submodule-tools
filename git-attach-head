@@ -130,5 +130,3 @@ EOF
 	git merge --quiet --ff-only $HEAD
     fi
 fi
-
-

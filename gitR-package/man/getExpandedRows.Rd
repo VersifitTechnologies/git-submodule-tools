@@ -13,4 +13,3 @@
 \description{
   Returns the paths of the rows currently expanded.
 }
-

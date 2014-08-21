@@ -18,4 +18,3 @@
   Displays a tree view with two branches: branches and
   tags.
 }
-

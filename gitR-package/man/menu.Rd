@@ -21,4 +21,3 @@
   updated with a sucess message. It also captures errors
   and shows them in a dialog box.
 }
-

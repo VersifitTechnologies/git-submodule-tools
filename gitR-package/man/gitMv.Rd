@@ -14,4 +14,3 @@
 \description{
   Move a file or a directory
 }
-

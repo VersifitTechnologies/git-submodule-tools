@@ -521,4 +521,3 @@ git rclone remote/vorlesung.git vorlesung6
 	git branch -v -a
     ) || exit 1
 ) || exit 1
-    

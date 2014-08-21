@@ -10,4 +10,3 @@
 \description{
   Returns the toplevel directory of the given repository.
 }
-

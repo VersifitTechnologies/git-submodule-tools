@@ -11,4 +11,3 @@
   Displays the output of the last git command in a separate
   window.
 }
-

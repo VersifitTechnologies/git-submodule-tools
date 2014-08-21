@@ -13,4 +13,3 @@
 \description{
   Return number of unpushed and unpulled commits
 }
-

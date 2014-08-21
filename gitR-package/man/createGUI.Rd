@@ -13,4 +13,3 @@
 \description{
   Opens the window, adds all gui elements and handlers.
 }
-

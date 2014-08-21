@@ -20,4 +20,3 @@
 \description{
   Delete a file from the work tree.
 }
-

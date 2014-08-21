@@ -15,4 +15,3 @@
 \description{
   Add a file to the staging area.
 }
-

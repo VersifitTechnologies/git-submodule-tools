@@ -11,4 +11,3 @@
   Uses information in obj and, if empty from "~/.gitR", if
   this does not exist uses the defaults.
 }
-

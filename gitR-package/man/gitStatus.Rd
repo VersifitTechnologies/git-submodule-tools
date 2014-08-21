@@ -24,4 +24,3 @@
 \description{
   Calls git status.
 }
-

@@ -14,4 +14,3 @@
   Escapes a string for display within message that is in
   Pango text markup language format.
 }
-

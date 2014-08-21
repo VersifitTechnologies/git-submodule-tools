@@ -435,4 +435,3 @@ menu <- function(type, h, ...) {
          Rcheckout = obj$status("Rcheckout successful."))
   return()
 }
-

@@ -13,4 +13,3 @@
 \description{
   Checks if a repository is dirty.
 }
-

@@ -17,4 +17,3 @@
   Function that adds Context Menu like add3rdMousePopupMenu
   but with dynamic menu.
 }
-

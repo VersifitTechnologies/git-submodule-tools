@@ -14,4 +14,3 @@
   Function to read in the files and status of a git
   repository.
 }
-

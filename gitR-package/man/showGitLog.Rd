@@ -12,4 +12,3 @@
 \description{
   Displays a nicely formatted git log in a separate window
 }
-

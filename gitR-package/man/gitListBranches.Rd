@@ -18,4 +18,3 @@
   branches (without the remote/ prefix). The currently
   active branch is given in the attribute "active".
 }
-

@@ -22,4 +22,3 @@
 \description{
   Shows a message, with an icon and an ok button.
 }
-
